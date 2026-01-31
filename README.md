@@ -104,6 +104,7 @@ Add **multi-face detection support**
 ## 🧑‍💻 Author
 
 **Tushar Ghosh**
+
 **Data Science & Computer Vision Enthusiast**
 
 ## 📌 This project was independently built, customized, and deployed for learning and practical demonstration purposes.
